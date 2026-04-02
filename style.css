@@ -12,7 +12,8 @@ body {
 
 canvas {
     border: 3px solid lime;
-    background-color: #111;
+    background-image: url('prison_bg.jpg');
+    background-size: cover;
 }
 
 #ui {
